@@ -1,7 +1,8 @@
 ### Hello Devs 👋
-- 🌱 Cursando - Analise e desenvolvimento de Sistemas
+- 🌱 Graduação: Analise e desenvolvimento de Sistemas
 - 💬 Email para contato: guimaraes.larissa65@gmail.com
 - 😄 Pronouns: Ela/dela
+  
 
 
 <div>
